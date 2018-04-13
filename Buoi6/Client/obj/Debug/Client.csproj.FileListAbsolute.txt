@@ -1,0 +1,10 @@
+C:\Users\Vivi\Downloads\THBuoi6-master\THBuoi6-master\Buoi6\Client\bin\Debug\Client.exe.config
+C:\Users\Vivi\Downloads\THBuoi6-master\THBuoi6-master\Buoi6\Client\bin\Debug\Client.exe
+C:\Users\Vivi\Downloads\THBuoi6-master\THBuoi6-master\Buoi6\Client\bin\Debug\Client.pdb
+C:\Users\Vivi\Downloads\THBuoi6-master\THBuoi6-master\Buoi6\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Vivi\Downloads\THBuoi6-master\THBuoi6-master\Buoi6\Client\obj\Debug\Client.Form1.resources
+C:\Users\Vivi\Downloads\THBuoi6-master\THBuoi6-master\Buoi6\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Vivi\Downloads\THBuoi6-master\THBuoi6-master\Buoi6\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Vivi\Downloads\THBuoi6-master\THBuoi6-master\Buoi6\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Vivi\Downloads\THBuoi6-master\THBuoi6-master\Buoi6\Client\obj\Debug\Client.exe
+C:\Users\Vivi\Downloads\THBuoi6-master\THBuoi6-master\Buoi6\Client\obj\Debug\Client.pdb
